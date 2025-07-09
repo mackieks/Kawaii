@@ -41,7 +41,7 @@ Check out [the hardware folder](https://github.com/mackieks/Kawaii/tree/main/har
 
 ## World's Smallest?
 
-Whether the Kawaii is the world's smallest functioning Wii is up for debate. Since it requires a dock or bundle of adapter cables to function, it's certainly not the world's smallest _fully self-contained_ Wii— that's still loopj's [Short Stack](https://github.com/loopj/short-stack). Kawaii also requires an external fan to stay cool enough to touch during extended use.
+Whether the Kawaii is the world's smallest functioning Wii is up for debate. Since it requires a dock or bundle of adapter cables to play games on a TV, it's certainly not the world's smallest _fully self-contained_ Wii— that's still loopj's [Short Stack](https://github.com/loopj/short-stack). Kawaii also requires an external fan to stay cool enough to touch during extended use.
 
 Still, the Kawaii does contain a complete Wii. Its only inputs are power and GameCube controllers, and its only outputs are analog audio and video. So it may be the smallest functional Wii build, but not the smallest functional Wii console. The distinction is semantic and largely irrelevant to the project's goal, which was to create something beautiful, not to claim a title. 😄
 
