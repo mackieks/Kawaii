@@ -17,7 +17,7 @@ The top-level MCAD assemblies in F3D and STEP format are the main reference for 
 - [x] RGB LED PCB
 - [x] MHF4 female pigtails [link](https://www.aliexpress.us/item/3256802754472981.html)
 - [x] 3D-printed lightpipes (x2)
-- [x] 12-pin magnetic pogo pin connector [link](https://www.aliexpress.us/item/3256804525551011.html)
+- [x] 12-pin magnetic pogo pin connector [link 1](https://www.aliexpress.us/item/3256804525551011.html), [link 2](https://www.aliexpress.us/item/3256807252344568.html)
 - [x] Various fasteners (see MCAD)
 
 ## List of dock components:
